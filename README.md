@@ -62,7 +62,8 @@ pip install pandas matplotlib seaborn numpy
 ## Usage
 1. Clone the Repository:
 ```bash
-git clone https://github.com/yourusername/spotify-track-insights.git
+git clone https://github.com/lnpotter/spotify-track-insights.git # or
+git clone https://github.com/yourusername/spotify-track-insights.git #if you forked the repository
 ```
 2. Navigate to the project directory:
 ```bash
